@@ -1,7 +1,7 @@
 import random
 
 def get_randomInt():
-	return random.randrange(1,13)
+	# Your code here
 
 
 print(get_randomInt())
